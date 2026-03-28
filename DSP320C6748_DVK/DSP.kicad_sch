@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "309285b3-857d-4343-a9a2-04d30ef0d4fa")
+	(paper "A4")
+	(title_block
+		(title "DSP320C6748 DVK")
+		(date "2026-03-28")
+		(rev "1.0")
+		(company "Logsun Systems")
+	)
+	(lib_symbols)
+)
