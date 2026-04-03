@@ -629,7 +629,19 @@
     ],
     [
       "8d244b07-004a-4f3b-bfe9-5552dc3aa88b",
-      "DSP"
+      "DSP_POWER"
+    ],
+    [
+      "7f99a773-2324-4d25-8796-c695cf33a83f",
+      "DSP-I"
+    ],
+    [
+      "2c62b8f0-d70b-43f3-91ef-f5cb46303462",
+      "DSP-II"
+    ],
+    [
+      "ec941544-eebc-4283-887f-7b1d7ed1515f",
+      "Power_Supply"
     ]
   ],
   "text_variables": {}
