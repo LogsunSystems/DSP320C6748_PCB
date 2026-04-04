@@ -14545,6 +14545,46 @@
 			)
 		)
 	)
+	(global_label "GPIO2[4]"
+		(shape bidirectional)
+		(at 121.92 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "df55536d-e95b-4282-9774-5b8ff6b0caf4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO2[5]"
+		(shape bidirectional)
+		(at 121.92 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "febf4671-b000-42c5-a808-7aca9649be7c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_name "TMS320C6748EZWT4_1_1")
 		(lib_id "TMS320C6748EZWT4:TMS320C6748EZWT4_1")
@@ -15078,6 +15118,7 @@
 		)
 		(pin "A16"
 			(uuid "5f2f4ef7-9e8a-48ad-b7e9-46bb5945958c")
+			(alternate "GPIO2[5]")
 		)
 		(pin "A13"
 			(uuid "9aba7b7e-8516-45bc-b3a7-201a88edce44")
@@ -15150,6 +15191,7 @@
 		)
 		(pin "A9"
 			(uuid "9c0dd668-278b-49d0-85b9-6148220aa7e0")
+			(alternate "GPIO2[4]")
 		)
 		(pin "A5"
 			(uuid "0f118c76-8069-4ad8-bd91-b3d3a5bbdbbf")
