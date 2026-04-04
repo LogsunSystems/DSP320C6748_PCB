@@ -641,7 +641,11 @@
     ],
     [
       "ec941544-eebc-4283-887f-7b1d7ed1515f",
-      "Power_Supply"
+      "Power_Supply-I"
+    ],
+    [
+      "f23cd408-3269-44aa-9012-a7dd1d352757",
+      "Power_Supply_II"
     ]
   ],
   "text_variables": {}

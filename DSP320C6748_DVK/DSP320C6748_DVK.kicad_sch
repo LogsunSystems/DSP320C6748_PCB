@@ -825,7 +825,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "ec941544-eebc-4283-887f-7b1d7ed1515f")
-		(property "Sheetname" "Power_Supply"
+		(property "Sheetname" "Power_Supply-I"
 			(at 26.67 102.1584 0)
 			(effects
 				(font
@@ -834,7 +834,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Power_Supply.kicad_sch"
+		(property "Sheetfile" "Power_Supply-I.kicad_sch"
 			(at 26.67 122.5046 0)
 			(effects
 				(font
@@ -847,6 +847,48 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.564 101.854)
+		(size 25.654 18.796)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f23cd408-3269-44aa-9012-a7dd1d352757")
+		(property "Sheetname" "Power_Supply_II"
+			(at 67.564 101.1424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply_II.kicad_sch"
+			(at 67.564 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "6")
 				)
 			)
 		)
