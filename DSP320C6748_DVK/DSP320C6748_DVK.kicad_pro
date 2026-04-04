@@ -646,6 +646,10 @@
     [
       "f23cd408-3269-44aa-9012-a7dd1d352757",
       "Power_Supply_II"
+    ],
+    [
+      "1c65a424-dd23-4a5f-aa20-bdb9d16cf58b",
+      "Serial_SATA"
     ]
   ],
   "text_variables": {}
