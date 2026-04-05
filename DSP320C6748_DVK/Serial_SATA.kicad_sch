@@ -3612,6 +3612,18 @@
 		)
 		(uuid "39b5f833-27ae-4426-ac1e-8bc558b464be")
 	)
+	(text "SATA Section"
+		(exclude_from_sim no)
+		(at 126.238 30.734 0)
+		(effects
+			(font
+				(size 2.27 2.27)
+				(thickness 0.454)
+				(bold yes)
+			)
+		)
+		(uuid "6f5cba9a-d503-46ef-a6ae-432cf3dcda6f")
+	)
 	(text "USB Type-C"
 		(exclude_from_sim no)
 		(at 227.33 27.94 0)

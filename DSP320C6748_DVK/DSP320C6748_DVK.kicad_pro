@@ -651,7 +651,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "IC7-8,Y1,FB4,#PWR108-127,C68-81,D4-5,R39-50",
+    "used_designators": "L4-6,IC9-10,U3-6,SW1,J4-8,D6-8,C82-108,FB5-8,Y2-3,#PWR127-181,TP3,R51-113",
     "variants": []
   },
   "sheets": [
@@ -682,6 +682,14 @@
     [
       "1c65a424-dd23-4a5f-aa20-bdb9d16cf58b",
       "Serial_SATA"
+    ],
+    [
+      "5299f997-70dc-46c2-bb29-2b6cbd3c3f85",
+      "SD_Card_LCD"
+    ],
+    [
+      "50265626-f8f8-4b78-beea-943b45093bb2",
+      "LCD_II"
     ]
   ],
   "text_variables": {},

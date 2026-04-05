@@ -800,6 +800,98 @@
 		)
 	)
 	(sheet
+		(at 120.015 57.785)
+		(size 23.495 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "50265626-f8f8-4b78-beea-943b45093bb2")
+		(property "Sheetname" "LCD_II"
+			(at 120.015 57.0734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LCD_II.kicad_sch"
+			(at 120.015 77.4196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 24.13)
+		(size 29.21 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5299f997-70dc-46c2-bb29-2b6cbd3c3f85")
+		(property "Sheetname" "SD_Card_LCD"
+			(at 187.96 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SD_Card_LCD.kicad_sch"
+			(at 187.96 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 64.77 26.162)
 		(size 25.908 19.812)
 		(exclude_from_sim no)
