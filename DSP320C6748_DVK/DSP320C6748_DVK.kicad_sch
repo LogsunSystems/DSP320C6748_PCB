@@ -755,7 +755,7 @@
 	)
 	(sheet
 		(at 222.885 24.13)
-		(size 29.21 11.43)
+		(size 29.21 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -781,7 +781,7 @@
 			)
 		)
 		(property "Sheetfile" "Video_Decoder.kicad_sch"
-			(at 222.885 36.1446 0)
+			(at 222.885 51.3846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1025,6 +1025,52 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
 					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 222.885 57.785)
+		(size 26.035 20.955)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "66708163-42aa-4cc7-a1d8-21fa6d1e60c9")
+		(property "Sheetname" "Sound_Coded"
+			(at 222.885 57.0734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sound_Coded.kicad_sch"
+			(at 222.885 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "13")
 				)
 			)
 		)

@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "aecc903b-e40b-4f75-9c6b-77b3995de47b")
+	(uuid "15a96d22-4e87-4bfa-96e6-72cc735d0f3d")
 	(paper "A4")
 	(lib_symbols
 		(symbol "74xGxx:74LVC1G126"
@@ -3765,6 +3765,19 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "Place Under IC"
+		(exclude_from_sim no)
+		(at 25.908 17.272 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "e6191b3d-02dd-4e8e-9e57-a85a499c6f0c")
 	)
 	(junction
 		(at 63.5 25.4)

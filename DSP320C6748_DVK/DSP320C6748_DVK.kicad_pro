@@ -651,7 +651,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "IC10-14,R108-195,D8-9,#PWR182-265,C109-160,#G7-11,Y4,FB7-9,J8,U6,TP4-8",
+    "used_designators": "R196-209,J9-11,IC15,#PWR266-298,C161-180,TP9-10,FB10-12,Y5",
     "variants": []
   },
   "sheets": [
@@ -702,6 +702,10 @@
     [
       "2609c43f-9b50-4557-ba5f-58a1801a0335",
       "Video_Decoder (page 12)"
+    ],
+    [
+      "66708163-42aa-4cc7-a1d8-21fa6d1e60c9",
+      "Sound_Coded"
     ]
   ],
   "text_variables": {},
