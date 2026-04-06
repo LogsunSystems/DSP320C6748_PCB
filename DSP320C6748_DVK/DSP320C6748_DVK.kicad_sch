@@ -754,6 +754,52 @@
 		)
 	)
 	(sheet
+		(at 222.885 24.13)
+		(size 29.21 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2609c43f-9b50-4557-ba5f-58a1801a0335")
+		(property "Sheetname" "Video_Decoder (page 12)"
+			(at 222.885 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Video_Decoder.kicad_sch"
+			(at 222.885 36.1446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 99.314 27.686)
 		(size 28.194 16.256)
 		(exclude_from_sim no)
@@ -795,6 +841,52 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 58.42)
+		(size 25.4 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "36703887-d50c-466b-9b0d-afec8b7c2dcc")
+		(property "Sheetname" "DDR_RAM"
+			(at 152.4 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR_RAM.kicad_sch"
+			(at 152.4 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "10")
 				)
 			)
 		)
@@ -887,6 +979,52 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
 					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 58.42)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "60352f1f-737b-4a7c-a5ba-03bf3caf1bef")
+		(property "Sheetname" "NAND_Flash"
+			(at 184.15 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NAND_Flash.kicad_sch"
+			(at 184.15 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "11")
 				)
 			)
 		)
