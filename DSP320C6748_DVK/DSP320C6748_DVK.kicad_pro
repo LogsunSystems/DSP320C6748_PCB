@@ -651,7 +651,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "L4-6,IC9-10,U3-6,SW1,J4-8,D6-8,C82-108,FB5-8,Y2-3,#PWR127-181,TP3,R51-113",
+    "used_designators": "IC10-12,R108-131,D8-9,#PWR182-225,C109-116,#G7-9",
     "variants": []
   },
   "sheets": [
@@ -690,6 +690,14 @@
     [
       "50265626-f8f8-4b78-beea-943b45093bb2",
       "LCD_II"
+    ],
+    [
+      "36703887-d50c-466b-9b0d-afec8b7c2dcc",
+      "DDR_RAM"
+    ],
+    [
+      "60352f1f-737b-4a7c-a5ba-03bf3caf1bef",
+      "NAND_Flash"
     ]
   ],
   "text_variables": {},
