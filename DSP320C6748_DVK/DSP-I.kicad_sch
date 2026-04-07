@@ -19998,6 +19998,28 @@
 			)
 		)
 	)
+	(global_label "GPIO2[6]"
+		(shape bidirectional)
+		(at 115.57 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95837edd-5b0f-4cb1-9947-52a71e8c87d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.57 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
 	(global_label "DDR_A_{12}"
 		(shape bidirectional)
 		(at 181.6 20.32 180)
@@ -20472,28 +20494,6 @@
 		(uuid "b763f3f9-56dc-4f10-93eb-2e11df130aae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 52.07 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
-	(global_label "EMA_SDCKE"
-		(shape bidirectional)
-		(at 115.57 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b880acf3-2ce0-4b48-9b10-2a9c94f07a1b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24191,6 +24191,7 @@
 		)
 		(pin "D8"
 			(uuid "a73e52bd-14c8-434a-98fd-0fa5ad06a25f")
+			(alternate "GPIO2[6]")
 		)
 		(pin "B16"
 			(uuid "b665ba53-7b1c-45bd-b003-50ba9e847b3f")

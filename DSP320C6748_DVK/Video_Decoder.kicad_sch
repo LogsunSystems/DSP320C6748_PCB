@@ -4335,7 +4335,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 68.58) (xy 267.97 48.26)
+			(xy 115.57 43.18) (xy 115.57 22.86)
 		)
 		(stroke
 			(width 0)
@@ -5165,7 +5165,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 68.58) (xy 267.97 68.58)
+			(xy 116.84 43.18) (xy 115.57 43.18)
 		)
 		(stroke
 			(width 0)
@@ -5844,7 +5844,7 @@
 		(uuid "01adf5fe-89e8-4610-9cde-66801ff85628")
 	)
 	(label "DGND_1"
-		(at 267.97 48.26 180)
+		(at 115.57 22.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5864,7 +5864,7 @@
 		(uuid "1d358c43-af18-4f56-96c6-82b422c280cc")
 	)
 	(label "IOGND_3"
-		(at 267.97 67.31 180)
+		(at 115.57 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5874,7 +5874,7 @@
 		(uuid "396d806e-1ae1-4cd4-8920-c0777a348b34")
 	)
 	(label "IOGND_2"
-		(at 267.97 64.77 180)
+		(at 115.57 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5934,7 +5934,7 @@
 		(uuid "9644ea0f-a354-4824-bcfb-407d7bcf7d62")
 	)
 	(label "DGND_2"
-		(at 267.97 50.8 180)
+		(at 115.57 25.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5944,7 +5944,7 @@
 		(uuid "a24bbd1e-8361-4087-beae-4c70f01925af")
 	)
 	(label "DGND_4"
-		(at 267.97 55.88 180)
+		(at 115.57 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5994,7 +5994,7 @@
 		(uuid "cff0d06f-a336-4c73-a517-e11fb65706d0")
 	)
 	(label "DGND_5"
-		(at 267.97 58.42 180)
+		(at 115.57 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6004,7 +6004,7 @@
 		(uuid "d2d732ec-354b-47a0-b473-ec44c1ac98c3")
 	)
 	(label "IOGND_1"
-		(at 267.97 62.23 180)
+		(at 115.57 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6044,7 +6044,7 @@
 		(uuid "e90198e4-c82c-462f-bce1-386702899cb9")
 	)
 	(label "DGND_3"
-		(at 267.97 53.34 180)
+		(at 115.57 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9597,7 +9597,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 269.24 68.58 0)
+		(at 116.84 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9607,7 +9607,7 @@
 		(dnp no)
 		(uuid "514617eb-b47a-4e5b-a35e-dc2dd2899791")
 		(property "Reference" "#PWR0264"
-			(at 269.24 74.93 0)
+			(at 116.84 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9618,7 +9618,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 269.24 72.136 0)
+			(at 116.84 46.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9628,7 +9628,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 269.24 68.58 0)
+			(at 116.84 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9639,7 +9639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 269.24 68.58 0)
+			(at 116.84 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9650,7 +9650,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 269.24 68.58 0)
+			(at 116.84 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

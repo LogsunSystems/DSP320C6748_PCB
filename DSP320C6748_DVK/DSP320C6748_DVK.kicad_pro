@@ -651,7 +651,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "U7,#PWR281,#PWR299-321,C181-192,TP11,FB13,J12,R210-248,Y6",
+    "used_designators": "U7-9,#PWR95-98,#PWR150-153,#PWR281,#PWR299-364,C181-198,TP11,FB13,J12-20,R32-35,R82-105,R210-260,Y6,IC16-18,S2-3,D10-11,SW1,#G12-14",
     "variants": []
   },
   "sheets": [
@@ -710,6 +710,14 @@
     [
       "6c2ac236-d8bd-4367-9643-603071189f95",
       "LAN_8710A"
+    ],
+    [
+      "5c92834a-e218-4842-9f37-78ba42443e32",
+      "Connectors"
+    ],
+    [
+      "1866fe1a-a792-425d-9c22-4cbe8219f03e",
+      "Mislleneous"
     ]
   ],
   "text_variables": {},
