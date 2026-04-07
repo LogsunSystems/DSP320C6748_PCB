@@ -1076,6 +1076,52 @@
 		)
 	)
 	(sheet
+		(at 26.035 92.075)
+		(size 34.29 18.415)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6c2ac236-d8bd-4367-9643-603071189f95")
+		(property "Sheetname" "LAN_8710A"
+			(at 26.035 91.3634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LAN_8710A.kicad_sch"
+			(at 26.035 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 64.77 26.162)
 		(size 25.908 19.812)
 		(exclude_from_sim no)

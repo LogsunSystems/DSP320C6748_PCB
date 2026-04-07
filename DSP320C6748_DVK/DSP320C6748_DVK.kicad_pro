@@ -651,7 +651,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "R196-209,J9-11,IC15,#PWR266-298,C161-180,TP9-10,FB10-12,Y5",
+    "used_designators": "U7,#PWR281,#PWR299-321,C181-192,TP11,FB13,J12,R210-248,Y6",
     "variants": []
   },
   "sheets": [
@@ -706,6 +706,10 @@
     [
       "66708163-42aa-4cc7-a1d8-21fa6d1e60c9",
       "Sound_Coded"
+    ],
+    [
+      "6c2ac236-d8bd-4367-9643-603071189f95",
+      "LAN_8710A"
     ]
   ],
   "text_variables": {},
