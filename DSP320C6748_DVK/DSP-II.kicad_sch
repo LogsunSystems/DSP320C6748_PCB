@@ -12553,7 +12553,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "126234c1-1855-41fc-a1d0-f669a418bf97")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR051"
 			(at 247.65 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -12613,7 +12613,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0188")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -12630,7 +12630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25646bba-715b-4089-92ec-417de43709bc")
-		(property "Reference" "C90"
+		(property "Reference" "C53"
 			(at 259.08 154.686 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12692,7 +12692,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "C90")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -13906,7 +13906,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fe9772d-513c-44ed-af23-26c92219f3c5")
-		(property "Reference" "C88"
+		(property "Reference" "C51"
 			(at 259.08 139.446 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13968,7 +13968,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "C88")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -13985,7 +13985,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "38b8c6b3-4c4e-4f39-8e46-9c1dccdd739d")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR049"
 			(at 233.68 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -14045,7 +14045,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0126")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -14062,7 +14062,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "398beee2-ab8f-40ea-ae97-5a4cc8fcee96")
-		(property "Reference" "R81"
+		(property "Reference" "R35"
 			(at 170.18 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14124,7 +14124,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R81")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -14141,7 +14141,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a5b70b7-8384-4637-ab22-e961dbbf41e2")
-		(property "Reference" "R79"
+		(property "Reference" "R36"
 			(at 181.61 132.588 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14203,7 +14203,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R79")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -14220,7 +14220,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44851ad9-c545-49ab-9f2d-b8fe11e55607")
-		(property "Reference" "R118"
+		(property "Reference" "R28"
 			(at 18.542 163.068 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14284,7 +14284,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R118")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -14301,7 +14301,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48d3dd86-42e1-4e40-a73e-77a5b9ae0506")
-		(property "Reference" "D9"
+		(property "Reference" "D2"
 			(at 273.05 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14376,7 +14376,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "D9")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -14393,7 +14393,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e2c8dfd-b73f-4a78-8224-36784b8d1578")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR053"
 			(at 251.46 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14453,7 +14453,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0189")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -14471,7 +14471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4feb8f2f-feac-4f34-bd26-5265df5a5afb")
-		(property "Reference" "IC11"
+		(property "Reference" "IC3"
 			(at 262.89 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14631,7 +14631,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "IC11")
+					(reference "IC3")
 					(unit 1)
 				)
 			)
@@ -14649,7 +14649,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54574b8c-adb2-4d0d-b178-d938267cb5c5")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR047"
 			(at 39.37 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -14709,7 +14709,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0184")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -14726,7 +14726,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6545c72e-48b9-4d31-9014-dccdc475aeb7")
-		(property "Reference" "R113"
+		(property "Reference" "R31"
 			(at 21.082 124.714 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14790,7 +14790,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R113")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -14807,7 +14807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "659981f2-8655-4e7e-8862-63fed8b78108")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR048"
 			(at 231.14 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14867,7 +14867,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0125")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -14885,7 +14885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b090c20-4564-4ec0-9ca6-774c99b3bf15")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR054"
 			(at 265.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -14945,7 +14945,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0185")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -14962,7 +14962,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7321080b-b044-4997-9886-7852bc1df7cd")
-		(property "Reference" "R115"
+		(property "Reference" "R33"
 			(at 37.592 124.714 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15026,7 +15026,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R115")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -15043,7 +15043,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7358a382-fd69-4720-bd80-a719fbf2d8d4")
-		(property "Reference" "R121"
+		(property "Reference" "R41"
 			(at 246.888 97.028 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15107,7 +15107,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R121")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -15124,7 +15124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b225127-7bac-467e-959c-8c4627532db1")
-		(property "Reference" "R120"
+		(property "Reference" "R40"
 			(at 246.888 65.278 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15188,7 +15188,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R120")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -15205,7 +15205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b8a2b1d-f9b3-471a-a865-c9442253c1cd")
-		(property "Reference" "C87"
+		(property "Reference" "C50"
 			(at 259.08 131.826 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15267,7 +15267,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "C87")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -15284,7 +15284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82a5cba3-421e-445f-af99-76737cfbe3e9")
-		(property "Reference" "R50"
+		(property "Reference" "R39"
 			(at 237.236 37.592 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15348,7 +15348,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R50")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -15365,7 +15365,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85a966ec-107c-4c38-92b0-1e6c4f1f1cb6")
-		(property "Reference" "C89"
+		(property "Reference" "C52"
 			(at 259.08 147.066 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15427,7 +15427,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "C89")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -15444,7 +15444,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "934bf739-3e00-4ffd-bdad-4dc6757b9832")
-		(property "Reference" "R119"
+		(property "Reference" "R42"
 			(at 267.208 71.374 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15508,7 +15508,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R119")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -15526,7 +15526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94e6e45e-aa92-4881-8531-31fcc6e3cef8")
-		(property "Reference" "#PWR0190"
+		(property "Reference" "#PWR055"
 			(at 265.43 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15586,7 +15586,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0190")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -15603,7 +15603,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e6c22d9-f2a9-415c-88e8-9da0a9f1ff76")
-		(property "Reference" "R117"
+		(property "Reference" "R29"
 			(at 21.082 163.068 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15667,7 +15667,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R117")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -15684,7 +15684,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a00f2e97-15ca-4314-8171-e2d1a097f3fb")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR050"
 			(at 247.65 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -15744,7 +15744,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0187")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -15761,7 +15761,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9718779-8f10-4b18-92f5-e81eebe9f8d4")
-		(property "Reference" "R114"
+		(property "Reference" "R32"
 			(at 27.178 129.032 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15825,7 +15825,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R114")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -15842,7 +15842,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa34b016-3133-4226-aa7d-2b4861dd287e")
-		(property "Reference" "R122"
+		(property "Reference" "R43"
 			(at 267.208 103.124 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15906,7 +15906,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R122")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -15999,7 +15999,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b14a007d-80e9-4322-bc26-beebd816c6a5")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR052"
 			(at 251.46 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16059,7 +16059,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0186")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -16076,7 +16076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3d5d829-c006-401a-ab74-3300f0d36b49")
-		(property "Reference" "R78"
+		(property "Reference" "R37"
 			(at 184.15 127.508 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16138,7 +16138,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R78")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -16155,7 +16155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8a386f3-4fca-46b4-9ad2-55b892a0463e")
-		(property "Reference" "R116"
+		(property "Reference" "R34"
 			(at 43.688 129.032 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16219,7 +16219,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R116")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -16236,7 +16236,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1807b0c-770e-4fc1-8d57-c497a11724b4")
-		(property "Reference" "R80"
+		(property "Reference" "R38"
 			(at 210.82 135.128 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16298,7 +16298,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R80")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -16316,7 +16316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d898e502-e373-436c-a76f-fd9fdf23bf91")
-		(property "Reference" "IC10"
+		(property "Reference" "IC2"
 			(at 262.89 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16476,7 +16476,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "IC10")
+					(reference "IC2")
 					(unit 1)
 				)
 			)
@@ -16493,7 +16493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3ff7202-4600-49ae-9271-0944bf5b34cb")
-		(property "Reference" "R112"
+		(property "Reference" "R30"
 			(at 20.066 78.232 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16557,7 +16557,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R112")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -16574,7 +16574,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6b412fc-60fa-461e-969b-8f1749062598")
-		(property "Reference" "D8"
+		(property "Reference" "D1"
 			(at 273.05 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16649,7 +16649,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "D8")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -16667,7 +16667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecb3b124-d04f-4310-bb9d-c4b88d03de97")
-		(property "Reference" "#PWR0183"
+		(property "Reference" "#PWR046"
 			(at 22.86 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -16727,7 +16727,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0183")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -16745,7 +16745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1f87947-6b26-4043-a984-71f6e720964b")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR056"
 			(at 276.86 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -16805,7 +16805,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR0124")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -16823,7 +16823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa96ba9c-7251-4fc4-8944-1cc443b1d22d")
-		(property "Reference" "IC8"
+		(property "Reference" "IC1"
 			(at 255.27 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16983,7 +16983,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "IC8")
+					(reference "IC1")
 					(unit 1)
 				)
 			)
