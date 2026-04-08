@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "18d3ac4b-6eff-4cd6-b8d3-d9585f7c4db7")
+	(uuid "095171c8-3b07-4d31-a2bf-964128d947c4")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:RJ45_Halo_HFJ11-x2450E-LxxRL"

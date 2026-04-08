@@ -8269,7 +8269,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3A_Flash"
+		(property "Value" "+3V3A_Video"
 			(at 90.17 62.484 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8664,7 +8664,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3A_Flash"
+		(property "Value" "+3V3A_Video"
 			(at 86.36 18.034 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8900,7 +8900,7 @@
 				)
 			)
 		)
-		(property "Value" "+1V8A_Flash"
+		(property "Value" "+1V8A_Video"
 			(at 72.39 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11537,7 +11537,7 @@
 				)
 			)
 		)
-		(property "Value" "+1V8A_Flash"
+		(property "Value" "+1V8A_Video"
 			(at 48.26 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)

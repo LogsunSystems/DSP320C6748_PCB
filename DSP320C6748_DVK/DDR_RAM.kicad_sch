@@ -2862,6 +2862,19 @@
 		)
 		(uuid "3487ffba-a8d8-48c5-ab2d-ab28f276a4e3")
 	)
+	(text "Note:\nAll De-caps should be place\nwithin 1CM from each pin"
+		(exclude_from_sim no)
+		(at 164.592 41.656 0)
+		(effects
+			(font
+				(size 2.27 2.27)
+				(thickness 0.454)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f3474880-cae5-46e5-9c8b-1fe65d1a0feb")
+	)
 	(junction
 		(at 248.92 58.42)
 		(diameter 0)
