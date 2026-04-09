@@ -5765,6 +5765,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 186.69) (xy 133.35 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d439459a-6fe4-460d-9e3b-6779e5834938")
+	)
+	(wire
+		(pts
 			(xy 58.42 161.29) (xy 58.42 163.83)
 		)
 		(stroke
@@ -6093,16 +6103,6 @@
 		)
 		(uuid "37e81d58-e63a-49b5-8581-7d077a81c19c")
 	)
-	(label "ENET_TXN"
-		(at 175.26 48.26 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4723eb44-a0a0-4420-a899-027231206159")
-	)
 	(label "LINK_LED"
 		(at 265.43 97.79 180)
 		(effects
@@ -6173,6 +6173,16 @@
 		)
 		(uuid "78025d12-9291-47c6-894d-f140993a090c")
 	)
+	(label "ENET_RXN"
+		(at 175.26 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b23d27c6-ea19-497c-9fc6-bac5415ef673")
+	)
 	(label "ACT_LED"
 		(at 110.49 71.12 180)
 		(effects
@@ -6213,7 +6223,7 @@
 		)
 		(uuid "f6dac9cc-267a-48c7-9d60-4acdc6b68857")
 	)
-	(label "ENET_TXP"
+	(label "ENET_RXP"
 		(at 175.26 45.72 180)
 		(effects
 			(font
@@ -6221,7 +6231,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "ffa9591b-423c-4333-ac58-2b1a704316da")
+		(uuid "fa7afe99-46b2-436d-bf00-62e4f48c2fc5")
 	)
 	(global_label "MII_CRS"
 		(shape input)

@@ -4366,7 +4366,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8b8b1d73-9430-4a4c-928c-9de374d462cd")
 		(property "Reference" "U8"
 			(at 148.59 21.59 0)
@@ -4378,8 +4377,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 148.59 68.58 0)
+		(property "Value" "S34ML02G204BHI010"
+			(at 148.336 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

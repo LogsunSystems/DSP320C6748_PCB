@@ -3700,6 +3700,12 @@
 		(uuid "2ad8a27c-3d06-43a7-9e4e-abd439f80332")
 	)
 	(junction
+		(at 52.07 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b876bad-2cde-4889-88e0-a38bc5466b52")
+	)
+	(junction
 		(at 204.47 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3880,6 +3886,12 @@
 		(uuid "bd928d87-abbc-4548-8c6f-2cf61fa9990f")
 	)
 	(junction
+		(at 64.77 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0af95cc-6f66-4f81-be80-eea711d008d9")
+	)
+	(junction
 		(at 232.41 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3914,12 +3926,24 @@
 		(uuid "4205534e-a65f-49de-beff-1249b0925e5c")
 	)
 	(no_connect
+		(at 163.83 83.82)
+		(uuid "443e31a9-05f7-492b-af11-c0c47a858d8e")
+	)
+	(no_connect
 		(at 118.11 78.74)
 		(uuid "55efdf53-22c5-4b60-8293-e324d9cc524a")
 	)
 	(no_connect
+		(at 163.83 81.28)
+		(uuid "677c96da-c406-40fa-a034-fcf717a9855c")
+	)
+	(no_connect
 		(at 148.59 109.22)
 		(uuid "7055b403-4e27-4c95-aae5-883fd66bc8b6")
+	)
+	(no_connect
+		(at 130.81 43.18)
+		(uuid "89252e47-1081-417d-b35b-acc70ba8a9da")
 	)
 	(no_connect
 		(at 140.97 109.22)
@@ -3932,6 +3956,10 @@
 	(no_connect
 		(at 118.11 81.28)
 		(uuid "ac4b45a0-f134-46b1-934f-3738019af89d")
+	)
+	(no_connect
+		(at 128.27 43.18)
+		(uuid "f02b273f-f34b-40d2-ac9e-c864bacd1749")
 	)
 	(no_connect
 		(at 163.83 76.2)
@@ -4014,6 +4042,16 @@
 			(type default)
 		)
 		(uuid "09d306d6-0fa0-4d4a-8af0-83d231fc4334")
+	)
+	(wire
+		(pts
+			(xy 52.07 50.8) (xy 58.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a873833-7408-4070-8478-7152e59e022f")
 	)
 	(wire
 		(pts
@@ -4474,6 +4512,16 @@
 			(type default)
 		)
 		(uuid "598c9be8-35be-4db3-bfcc-bb6d929b5406")
+	)
+	(wire
+		(pts
+			(xy 52.07 50.8) (xy 52.07 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca40347-fa9a-4b64-95b1-c81c26af4386")
 	)
 	(wire
 		(pts
@@ -5147,6 +5195,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 50.8) (xy 64.77 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2d8b9d9-ea0a-4e9b-9aa3-e2cd4a55e52e")
+	)
+	(wire
+		(pts
 			(xy 139.7 35.56) (xy 143.51 35.56)
 		)
 		(stroke
@@ -5227,7 +5285,17 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 52.07 41.91)
+			(xy 64.77 50.8) (xy 64.77 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b757a2b5-cb8e-48a4-8ae0-6c8955c781ae")
+	)
+	(wire
+		(pts
+			(xy 52.07 52.07) (xy 52.07 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5736,7 +5804,7 @@
 		(uuid "5183a8fc-45d6-482a-9448-6bbd77d6ce80")
 	)
 	(label "Audio_Left"
-		(at 222.25 73.66 180)
+		(at 223.52 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5776,7 +5844,7 @@
 		(uuid "77836ba0-45c1-40a7-b318-4c37348d0362")
 	)
 	(label "Audio_Right"
-		(at 223.52 78.74 180)
+		(at 222.25 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6577,6 +6645,87 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/66708163-42aa-4cc7-a1d8-21fa6d1e60c9"
 					(reference "#PWR0294")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 60.96 50.8 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "15d43bd7-6abe-4beb-92da-1ab362e401c6")
+		(property "Reference" "R266"
+			(at 62.23 48.768 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.6K,1%"
+			(at 64.516 52.832 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 60.96 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ba5f58f5-a6e3-4159-a6e1-817e8110a747")
+		)
+		(pin "2"
+			(uuid "2e11c254-5f8f-47bc-bc11-9585a97f6b0b")
+		)
+		(instances
+			(project "DSP320C6748_DVK"
+				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/66708163-42aa-4cc7-a1d8-21fa6d1e60c9"
+					(reference "R266")
 					(unit 1)
 				)
 			)

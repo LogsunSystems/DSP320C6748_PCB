@@ -3472,6 +3472,17 @@
 		)
 		(uuid "810095ad-1ed3-49a1-b487-ec0642c62250")
 	)
+	(text "Note:\nConnect the VDCDCx\nSignals near\nthe load end."
+		(exclude_from_sim no)
+		(at 97.536 126.492 0)
+		(effects
+			(font
+				(size 2.27 2.27)
+			)
+			(justify left)
+		)
+		(uuid "990f5db7-ea65-4ecf-a447-a9bc1ac054c7")
+	)
 	(text "1.8V Filter"
 		(exclude_from_sim no)
 		(at 48.006 128.524 0)

@@ -1400,276 +1400,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SN74LVC1G11DBVR:SN74LVC1G11DBVR"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "IC"
-				(at 21.59 7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "SN74LVC1G11DBVR"
-				(at 21.59 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT95P280X145-6N"
-				(at 21.59 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "http://componentsearchengine.com/Datasheets/1/SN74LVC1G11DBVR.pdf"
-				(at 21.59 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "SINGLE 3-INPUT POSITIVE-AND GATE"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "1.45"
-				(at 21.59 -394.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "Texas Instruments"
-				(at 21.59 -494.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SN74LVC1G11DBVR"
-				(at 21.59 -594.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "595-SN74LVC1G11DBVR"
-				(at 21.59 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC1G11DBVR?qs=nqigI8dpoHLbam7841cE5w%3D%3D"
-				(at 21.59 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Arrow Part Number" "SN74LVC1G11DBVR"
-				(at 21.59 -894.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sn74lvc1g11dbvr/texas-instruments?utm_currency=USD&region=nac"
-				(at 21.59 -994.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "SN74LVC1G11DBVR_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 20.32 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -5.08 180)
-					(length 5.08)
-					(name "Y"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "TMS320C6748EZWT4:TMS320C6748EZWT4_1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -8862,18 +8592,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "DSP Reset Generation"
-		(exclude_from_sim no)
-		(at 244.856 18.542 0)
-		(effects
-			(font
-				(size 2.27 2.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "d67e0223-8195-4221-9532-47350230fd4b")
-	)
 	(junction
 		(at 247.65 57.15)
 		(diameter 0)
@@ -8930,16 +8648,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 39.37) (xy 242.57 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01643419-7dd3-4b8d-97bd-f26f9ac048ea")
-	)
-	(wire
-		(pts
 			(xy 21.59 67.31) (xy 21.59 73.66)
 		)
 		(stroke
@@ -8968,26 +8676,6 @@
 		)
 		(uuid "0c67f5cf-127f-4911-a19a-78d8ed2c1d78")
 	)
-	(wire
-		(pts
-			(xy 242.57 39.37) (xy 242.57 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11198cd4-3696-4020-bd77-443dda5e8985")
-	)
-	(polyline
-		(pts
-			(xy 224.79 15.24) (xy 280.67 15.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "113a63f1-c1c4-450b-9952-80ba45f62f34")
-	)
 	(polyline
 		(pts
 			(xy 280.67 77.47) (xy 280.67 106.68)
@@ -9007,16 +8695,6 @@
 			(type default)
 		)
 		(uuid "155071ac-0fd3-47f2-85df-878b59fbae4b")
-	)
-	(wire
-		(pts
-			(xy 240.03 31.75) (xy 242.57 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16831093-f055-4b3a-9cb0-1d272d8cb75f")
 	)
 	(wire
 		(pts
@@ -9057,36 +8735,6 @@
 			(type default)
 		)
 		(uuid "1aaefd6d-dc6d-4410-afdc-eb1f0a08b145")
-	)
-	(polyline
-		(pts
-			(xy 280.67 15.24) (xy 280.67 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1be589dd-8a40-465f-971b-570e51bf1baf")
-	)
-	(wire
-		(pts
-			(xy 267.97 29.21) (xy 270.51 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d048566-44b7-42f1-b52d-0ca6b2a67077")
-	)
-	(wire
-		(pts
-			(xy 231.14 39.37) (xy 233.68 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d513acb-587e-400b-9181-3861941c82f5")
 	)
 	(wire
 		(pts
@@ -9250,16 +8898,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 25.4) (xy 242.57 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e70eafb-247e-4f7a-a57c-36c83aa3a4a0")
-	)
-	(wire
-		(pts
 			(xy 27.94 67.31) (xy 25.4 67.31)
 		)
 		(stroke
@@ -9297,16 +8935,6 @@
 			(type default)
 		)
 		(uuid "71a48a5a-db14-406b-bf36-4065e35b4639")
-	)
-	(polyline
-		(pts
-			(xy 224.79 43.18) (xy 224.79 15.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83ca7bf2-c9d4-4217-a4b3-0158b81d94bd")
 	)
 	(wire
 		(pts
@@ -9360,16 +8988,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 38.1) (xy 231.14 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b01a8ca-b05f-4549-b0cc-44a4067cb996")
-	)
-	(wire
-		(pts
 			(xy 22.86 116.84) (xy 22.86 118.11)
 		)
 		(stroke
@@ -9397,16 +9015,6 @@
 			(type default)
 		)
 		(uuid "9f089dd6-79ce-4446-9626-51dec61de07e")
-	)
-	(wire
-		(pts
-			(xy 276.86 31.75) (xy 267.97 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1c3ae6b-45b6-439f-8566-50718a32c5a4")
 	)
 	(wire
 		(pts
@@ -9457,16 +9065,6 @@
 			(type default)
 		)
 		(uuid "aa9f6fb2-784c-42f6-96db-c4c95df4f824")
-	)
-	(wire
-		(pts
-			(xy 270.51 29.21) (xy 270.51 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab017852-7040-4d06-b927-eaa73806ad92")
 	)
 	(wire
 		(pts
@@ -9610,16 +9208,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 29.21) (xy 276.86 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2db0e2f-2524-4307-a521-f84223f39fe1")
-	)
-	(wire
-		(pts
 			(xy 24.13 162.56) (xy 24.13 186.69)
 		)
 		(stroke
@@ -9627,16 +9215,6 @@
 			(type default)
 		)
 		(uuid "e43bb29b-ac13-43e6-bd87-cbf4dd63ae41")
-	)
-	(polyline
-		(pts
-			(xy 280.67 43.18) (xy 224.79 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9452dfb-196e-42c0-a204-a8aed7e00566")
 	)
 	(wire
 		(pts
@@ -9667,16 +9245,6 @@
 			(type default)
 		)
 		(uuid "ebd48c96-4f3a-41e6-8ed3-eebd210a3a42")
-	)
-	(wire
-		(pts
-			(xy 242.57 25.4) (xy 242.57 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed27c49c-a0e6-4719-b7b2-907936d70d25")
 	)
 	(wire
 		(pts
@@ -9937,32 +9505,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-	)
-	(global_label "~{PHP_RST}"
-		(shape input)
-		(at 267.97 34.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "0f8b08d4-06bb-4fd4-938d-a75d0704dd96")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.7164 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -10559,32 +10101,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-	)
-	(global_label "~{DSP_RST_{OUT}}"
-		(shape input)
-		(at 240.03 25.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "32eb46ef-b537-49ca-8abf-b054fcfc9f22")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.4509 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -11565,32 +11081,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-	)
-	(global_label "~{BRD_RST}"
-		(shape input)
-		(at 270.51 27.94 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "97a58ee4-f7a4-410b-a564-d74e6188d3f6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 270.51 16.2541 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -13975,83 +13465,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 240.03 31.75 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "38b8c6b3-4c4e-4f39-8e46-9c1dccdd739d")
-		(property "Reference" "#PWR049"
-			(at 233.68 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 236.474 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 240.03 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d71e2f6d-01a2-4bd8-8ec9-b44da7f281f4")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 170.18 135.89 270)
 		(unit 1)
@@ -14798,83 +14211,6 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 231.14 38.1 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "659981f2-8655-4e7e-8862-63fed8b78108")
-		(property "Reference" "#PWR048"
-			(at 231.14 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3D"
-			(at 231.14 34.544 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 231.14 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ba68964f-af22-4cda-a829-655879e606b6")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
 		(at 261.62 69.85 90)
 		(unit 1)
 		(body_style 1)
@@ -15268,87 +14604,6 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
 					(reference "C50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 236.22 39.37 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "82a5cba3-421e-445f-af99-76737cfbe3e9")
-		(property "Reference" "R39"
-			(at 237.236 37.592 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10K,1%,1/16W"
-			(at 244.094 41.402 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 236.22 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "934400ea-f657-4919-b668-23db07bf472f")
-		)
-		(pin "2"
-			(uuid "d8658e81-5b51-4653-9f1a-b3e4b76aab8c")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -16728,262 +15983,6 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
 					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 276.86 29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1f87947-6b26-4043-a984-71f6e720964b")
-		(property "Reference" "#PWR056"
-			(at 276.86 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3D"
-			(at 276.86 24.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 276.86 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 276.86 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 276.86 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a0805bf0-2a8d-4833-9c3d-7dd96b79537a")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SN74LVC1G11DBVR:SN74LVC1G11DBVR")
-		(at 242.57 29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa96ba9c-7251-4fc4-8944-1cc443b1d22d")
-		(property "Reference" "IC1"
-			(at 255.27 21.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SN74LVC1G11DBVR"
-			(at 255.27 24.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SOT95P280X145-6N"
-			(at 264.16 124.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://componentsearchengine.com/Datasheets/1/SN74LVC1G11DBVR.pdf"
-			(at 264.16 224.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "SINGLE 3-INPUT POSITIVE-AND GATE"
-			(at 242.57 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.45"
-			(at 264.16 424.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 264.16 524.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SN74LVC1G11DBVR"
-			(at 264.16 624.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "595-SN74LVC1G11DBVR"
-			(at 264.16 724.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC1G11DBVR?qs=nqigI8dpoHLbam7841cE5w%3D%3D"
-			(at 264.16 824.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" "SN74LVC1G11DBVR"
-			(at 264.16 924.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sn74lvc1g11dbvr/texas-instruments?utm_currency=USD&region=nac"
-			(at 264.16 1024.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "3"
-			(uuid "f96db04d-4975-47fb-aaf1-3cd6b41fe945")
-		)
-		(pin "2"
-			(uuid "41258ab0-b99b-4802-948d-6f75b15f131e")
-		)
-		(pin "1"
-			(uuid "f43bccf1-1210-4fef-9238-5162384d9b53")
-		)
-		(pin "4"
-			(uuid "33772029-e813-4c0b-87af-463159961365")
-		)
-		(pin "6"
-			(uuid "d154aa87-b819-4954-9c54-3bc006c6dee5")
-		)
-		(pin "5"
-			(uuid "465c9fa1-dca1-41f6-ba35-c110380a4e6a")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/2c62b8f0-d70b-43f3-91ef-f5cb46303462"
-					(reference "IC1")
 					(unit 1)
 				)
 			)

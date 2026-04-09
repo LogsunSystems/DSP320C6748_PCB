@@ -7983,7 +7983,7 @@
 	)
 	(global_label "AIC_WCLK"
 		(shape input)
-		(at 116.84 81.28 180)
+		(at 116.84 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7993,7 +7993,7 @@
 		)
 		(uuid "3e513ca0-cdb8-482e-bf8d-34a81d1b996d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.9043 81.28 0)
+			(at 104.9043 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9008,7 +9008,7 @@
 	)
 	(global_label "AXR_{8}"
 		(shape input)
-		(at 140.97 73.66 0)
+		(at 140.97 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9017,7 +9017,7 @@
 		)
 		(uuid "9b2d7ec5-f779-40c6-aaac-ba7ab05e823f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 73.66 0)
+			(at 140.97 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9258,7 +9258,7 @@
 	)
 	(global_label "AIC_MCLK"
 		(shape input)
-		(at 116.84 76.2 180)
+		(at 116.84 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9268,7 +9268,7 @@
 		)
 		(uuid "b0c51b93-53a7-4f4f-ab46-06c8f0a0c20a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.9043 76.2 0)
+			(at 104.9043 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9307,7 +9307,7 @@
 	)
 	(global_label "AIC_BCLK"
 		(shape input)
-		(at 116.84 78.74 180)
+		(at 116.84 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9317,7 +9317,7 @@
 		)
 		(uuid "b4202e62-9dc7-40e2-89c3-bc35c0bb4286")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.0857 78.74 0)
+			(at 105.0857 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9927,7 +9927,7 @@
 	)
 	(global_label "AXR_{15}"
 		(shape input)
-		(at 140.97 68.58 0)
+		(at 140.97 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9936,7 +9936,7 @@
 		)
 		(uuid "d9c99cdd-54bf-4936-bfa9-6a278fc16aab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 68.58 0)
+			(at 140.97 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10346,6 +10346,32 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+	)
+	(global_label "5V_{IN}"
+		(shape input)
+		(at 134.62 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f8baaff4-9aca-4819-a584-3ec8b10fbed4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 141.9783 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -11139,7 +11165,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 111.76 140.97 0)
+		(at 114.3 140.97 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11147,7 +11174,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6530b952-0246-4efd-868b-02f3b7ab1c6c")
 		(property "Reference" "J15"
 			(at 113.03 124.46 0)
@@ -11170,7 +11196,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 111.76 140.97 0)
+			(at 114.3 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11181,7 +11207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 140.97 0)
+			(at 114.3 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11192,7 +11218,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 111.76 140.97 0)
+			(at 114.3 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11965,83 +11991,6 @@
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/5c92834a-e218-4842-9f37-78ba42443e32"
 					(reference "#PWR0342")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 134.62 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8938a68c-5c57-41a3-936e-b88aa397955a")
-		(property "Reference" "#PWR0356"
-			(at 134.62 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 134.62 92.456 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 134.62 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "719e241f-4bb3-4587-9b67-5b595683d7a0")
-		)
-		(instances
-			(project "DSP320C6748_DVK"
-				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/5c92834a-e218-4842-9f37-78ba42443e32"
-					(reference "#PWR0356")
 					(unit 1)
 				)
 			)
@@ -12965,7 +12914,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 53.34 142.24 0)
+		(at 55.88 142.24 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12973,7 +12923,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "db12e01e-5d93-465d-98cb-311efb7cb6fd")
 		(property "Reference" "J14"
 			(at 54.61 125.73 0)
@@ -12996,7 +12945,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 142.24 0)
+			(at 55.88 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13007,7 +12956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 142.24 0)
+			(at 55.88 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13018,7 +12967,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 53.34 142.24 0)
+			(at 55.88 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
