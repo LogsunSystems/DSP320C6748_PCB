@@ -8047,7 +8047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00a9b3b2-bb84-4407-8c93-0739fe641fa5")
-		(property "Reference" "#PWR0222"
+		(property "Reference" "#PWR0226"
 			(at 166.37 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -8107,7 +8107,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0222")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -8124,7 +8124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02418318-dc1f-4a83-9a14-bfafaf849133")
-		(property "Reference" "#PWR0228"
+		(property "Reference" "#PWR0232"
 			(at 182.88 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8184,7 +8184,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0228")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -8201,7 +8201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "06163240-2972-4d40-a639-def60a39b5a3")
-		(property "Reference" "#PWR0226"
+		(property "Reference" "#PWR0230"
 			(at 181.61 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -8261,7 +8261,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0226")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -8278,7 +8278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0964626a-bbca-4fbe-8700-a54b79abcee2")
-		(property "Reference" "C118"
+		(property "Reference" "C121"
 			(at 236.22 123.698 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8300,7 +8300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 234.95 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8342,7 +8342,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C118")
+					(reference "C121")
 					(unit 1)
 				)
 			)
@@ -8359,7 +8359,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e95742e-f01c-44a5-b42b-d385974a0253")
-		(property "Reference" "#PWR0248"
+		(property "Reference" "#PWR0252"
 			(at 273.05 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -8419,7 +8419,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0248")
+					(reference "#PWR0252")
 					(unit 1)
 				)
 			)
@@ -8436,7 +8436,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "110710fe-9c88-4583-9140-dd0289ad2d38")
-		(property "Reference" "#PWR0220"
+		(property "Reference" "#PWR0224"
 			(at 147.32 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8496,7 +8496,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0220")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -8513,7 +8513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1297e837-5acf-4491-8805-8cec190092a5")
-		(property "Reference" "C113"
+		(property "Reference" "C116"
 			(at 77.47 35.052 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8535,7 +8535,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 78.74 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8577,7 +8577,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C113")
+					(reference "C116")
 					(unit 1)
 				)
 			)
@@ -8594,7 +8594,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "131d59a4-d7b5-4d06-8fad-e3bb90d01021")
-		(property "Reference" "C115"
+		(property "Reference" "C118"
 			(at 128.27 133.858 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8616,7 +8616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 127 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -8658,7 +8658,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C115")
+					(reference "C118")
 					(unit 1)
 				)
 			)
@@ -8675,7 +8675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18bddb24-177b-4ce0-8d2f-d2c72fa15dc5")
-		(property "Reference" "#PWR0237"
+		(property "Reference" "#PWR0241"
 			(at 254 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -8735,7 +8735,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0237")
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)
@@ -8752,7 +8752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20c5fa92-fd8b-4732-a496-103578639a90")
-		(property "Reference" "R98"
+		(property "Reference" "R100"
 			(at 41.402 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8774,7 +8774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 39.37 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8816,7 +8816,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R98")
+					(reference "R100")
 					(unit 1)
 				)
 			)
@@ -8833,7 +8833,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "248004a7-fbad-4782-a078-52790dc5b79c")
-		(property "Reference" "C116"
+		(property "Reference" "C119"
 			(at 156.21 70.358 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8855,7 +8855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 154.94 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8897,7 +8897,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C116")
+					(reference "C119")
 					(unit 1)
 				)
 			)
@@ -8914,7 +8914,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25bcade6-cbf4-47ab-94a2-88ce8fd82264")
-		(property "Reference" "#PWR0241"
+		(property "Reference" "#PWR0245"
 			(at 262.89 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8974,7 +8974,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0241")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)
@@ -8991,7 +8991,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a8f65ae-7ad3-47e8-8f9f-08ee61f9444a")
-		(property "Reference" "#PWR0227"
+		(property "Reference" "#PWR0231"
 			(at 182.88 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9051,7 +9051,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0227")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -9068,7 +9068,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f2571df-1b5f-4858-bb90-2b2c85e3afac")
-		(property "Reference" "R96"
+		(property "Reference" "R98"
 			(at 35.052 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9090,7 +9090,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 33.02 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9132,7 +9132,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R96")
+					(reference "R98")
 					(unit 1)
 				)
 			)
@@ -9149,7 +9149,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fe663e2-f22f-4792-a272-acb8a1bb935d")
-		(property "Reference" "#PWR0242"
+		(property "Reference" "#PWR0246"
 			(at 262.89 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9209,7 +9209,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0242")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -9226,7 +9226,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33cc2fe4-7196-45c7-9942-c47eef24ec99")
-		(property "Reference" "#PWR0207"
+		(property "Reference" "#PWR0211"
 			(at 52.07 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -9286,7 +9286,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0207")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -9303,7 +9303,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "36d8a9d2-a7b9-40f8-843d-7387f115ff7d")
-		(property "Reference" "R104"
+		(property "Reference" "R106"
 			(at 74.422 189.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9325,7 +9325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 72.39 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9367,7 +9367,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R104")
+					(reference "R106")
 					(unit 1)
 				)
 			)
@@ -9384,7 +9384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39913a5b-1ec3-4dc9-889e-be8b67ac5bc7")
-		(property "Reference" "C120"
+		(property "Reference" "C123"
 			(at 261.112 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9406,7 +9406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 259.08 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9448,7 +9448,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C120")
+					(reference "C123")
 					(unit 1)
 				)
 			)
@@ -9465,7 +9465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d6f0d1d-f621-4790-a857-6b3be72f0ce1")
-		(property "Reference" "#PWR0203"
+		(property "Reference" "#PWR0207"
 			(at 33.02 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -9525,7 +9525,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0203")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -9542,7 +9542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4256b3aa-8323-42d8-96db-427c898923b1")
-		(property "Reference" "#PWR0239"
+		(property "Reference" "#PWR0243"
 			(at 250.19 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -9602,7 +9602,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0239")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -9619,7 +9619,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "43a8be1f-90a6-466f-88f0-dc6fabbc8b28")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0218"
 			(at 92.71 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -9679,7 +9679,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0214")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -9696,7 +9696,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45799897-e59f-489f-ae94-aee1acec4474")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0214"
 			(at 62.23 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -9756,7 +9756,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0210")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -9773,7 +9773,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "467617e8-97a6-42e2-9c6b-456f5e7b8039")
-		(property "Reference" "R99"
+		(property "Reference" "R101"
 			(at 47.752 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9795,7 +9795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.72 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9837,7 +9837,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R99")
+					(reference "R101")
 					(unit 1)
 				)
 			)
@@ -9854,7 +9854,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ed8adbd-39b2-4b92-9e62-d7fbdf159983")
-		(property "Reference" "#PWR0200"
+		(property "Reference" "#PWR0204"
 			(at 21.59 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -9914,7 +9914,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0200")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -9931,7 +9931,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f1a789e-e762-447b-a62d-aea431020673")
-		(property "Reference" "C111"
+		(property "Reference" "C114"
 			(at 17.018 180.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9953,7 +9953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 19.05 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -9995,7 +9995,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C111")
+					(reference "C114")
 					(unit 1)
 				)
 			)
@@ -10012,7 +10012,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "538b8210-8f93-4790-976c-3cb4fb15b4ae")
-		(property "Reference" "#PWR0230"
+		(property "Reference" "#PWR0234"
 			(at 195.58 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10072,7 +10072,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0230")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -10089,7 +10089,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "571f965c-641f-42f0-a4a1-738644018ef7")
-		(property "Reference" "C122"
+		(property "Reference" "C125"
 			(at 271.272 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10111,7 +10111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 269.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10153,7 +10153,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C122")
+					(reference "C125")
 					(unit 1)
 				)
 			)
@@ -10170,7 +10170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "589bfa73-d8a4-49db-bb62-ff18e486e138")
-		(property "Reference" "#PWR0240"
+		(property "Reference" "#PWR0244"
 			(at 250.19 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -10230,7 +10230,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0240")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -10247,7 +10247,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5acc39ba-5313-4a13-a8bb-ee9f29ec4406")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0217"
 			(at 83.82 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10307,7 +10307,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0213")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -10324,7 +10324,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d8a24d7-915b-4869-9d50-e92e662a6921")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0216"
 			(at 72.39 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -10384,7 +10384,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0212")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -10401,7 +10401,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6023c4b1-5942-49fa-8cc9-859d07976cd7")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0222"
 			(at 142.24 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10461,7 +10461,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0218")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -10578,7 +10578,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66f323b0-811f-4013-833d-627b707b6fe7")
-		(property "Reference" "#PWR0223"
+		(property "Reference" "#PWR0227"
 			(at 175.26 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -10638,7 +10638,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0223")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -10655,7 +10655,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68d77e1c-aea6-4081-a177-b94899a2d230")
-		(property "Reference" "C112"
+		(property "Reference" "C115"
 			(at 19.558 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10677,7 +10677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 21.59 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10719,7 +10719,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C112")
+					(reference "C115")
 					(unit 1)
 				)
 			)
@@ -11043,7 +11043,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7009ac35-4790-42de-8b96-9fb045b1dc46")
-		(property "Reference" "#PWR0238"
+		(property "Reference" "#PWR0242"
 			(at 254 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11103,7 +11103,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0238")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -11120,7 +11120,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71b5d103-caf1-47d2-9575-7dcef3bf39af")
-		(property "Reference" "C121"
+		(property "Reference" "C124"
 			(at 264.16 123.698 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11142,7 +11142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 262.89 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -11184,7 +11184,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C121")
+					(reference "C124")
 					(unit 1)
 				)
 			)
@@ -11201,7 +11201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73dcce9f-5bb1-4afe-97ae-2fcb1da2a16d")
-		(property "Reference" "#PWR0249"
+		(property "Reference" "#PWR0253"
 			(at 273.05 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11261,7 +11261,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0249")
+					(reference "#PWR0253")
 					(unit 1)
 				)
 			)
@@ -11278,7 +11278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75b606f9-e898-4fe1-9467-458062b96e55")
-		(property "Reference" "C117"
+		(property "Reference" "C120"
 			(at 184.15 133.858 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11300,7 +11300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 182.88 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -11342,7 +11342,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C117")
+					(reference "C120")
 					(unit 1)
 				)
 			)
@@ -11435,7 +11435,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7dc82c9b-f7bb-4cba-b9a3-35e8195cae79")
-		(property "Reference" "R103"
+		(property "Reference" "R105"
 			(at 69.342 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11457,7 +11457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 67.31 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11499,7 +11499,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R103")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -11516,7 +11516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f15b249-6ea7-47d5-a460-89a02fe6bedc")
-		(property "Reference" "#PWR0245"
+		(property "Reference" "#PWR0249"
 			(at 264.16 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11576,7 +11576,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0245")
+					(reference "#PWR0249")
 					(unit 1)
 				)
 			)
@@ -11593,7 +11593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81d064af-15aa-4dde-b442-51fe56895c52")
-		(property "Reference" "#PWR0204"
+		(property "Reference" "#PWR0208"
 			(at 34.29 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -11653,7 +11653,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0204")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -11670,7 +11670,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87247855-4cc7-451b-9692-d79d6631a589")
-		(property "Reference" "#PWR0208"
+		(property "Reference" "#PWR0212"
 			(at 60.96 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11730,7 +11730,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0208")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -11747,7 +11747,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87da75c6-f2a2-4648-aa74-2d44d6efd36f")
-		(property "Reference" "#PWR0243"
+		(property "Reference" "#PWR0247"
 			(at 262.89 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -11807,7 +11807,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0243")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -11824,7 +11824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9063415e-785f-48f7-9355-6ebe1ca13242")
-		(property "Reference" "#PWR0236"
+		(property "Reference" "#PWR0240"
 			(at 251.46 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -11884,7 +11884,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0236")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -11901,7 +11901,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91267225-7ccc-46dd-af78-60bab898d8cc")
-		(property "Reference" "#PWR0202"
+		(property "Reference" "#PWR0206"
 			(at 30.48 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -11961,7 +11961,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0202")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -11978,7 +11978,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "986978c4-5b35-489f-8941-dc989131e733")
-		(property "Reference" "#PWR0219"
+		(property "Reference" "#PWR0223"
 			(at 144.78 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -12038,7 +12038,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0219")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -12155,7 +12155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a30dd2f-17f8-4ac9-a63b-984b1d2236b8")
-		(property "Reference" "#PWR0244"
+		(property "Reference" "#PWR0248"
 			(at 264.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12215,7 +12215,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0244")
+					(reference "#PWR0248")
 					(unit 1)
 				)
 			)
@@ -12232,7 +12232,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c44d640-85ea-48a6-b2fb-239881fedece")
-		(property "Reference" "#PWR0199"
+		(property "Reference" "#PWR0203"
 			(at 19.05 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -12292,7 +12292,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0199")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -12309,7 +12309,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9dbb5eb4-cf1c-4c45-9fb4-75d6a55baa9d")
-		(property "Reference" "#PWR0201"
+		(property "Reference" "#PWR0205"
 			(at 21.59 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -12369,7 +12369,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0201")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -12386,7 +12386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0b53fd9-ea28-4f50-bf63-ef69becf00b1")
-		(property "Reference" "#PWR0205"
+		(property "Reference" "#PWR0209"
 			(at 39.37 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -12446,7 +12446,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0205")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -12463,7 +12463,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a34976b2-7700-489c-96c1-8e5239eb756b")
-		(property "Reference" "#PWR0246"
+		(property "Reference" "#PWR0250"
 			(at 264.16 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12523,7 +12523,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0246")
+					(reference "#PWR0250")
 					(unit 1)
 				)
 			)
@@ -12540,7 +12540,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa2e86d3-d9e6-437c-825e-dba952dd0883")
-		(property "Reference" "#PWR0234"
+		(property "Reference" "#PWR0238"
 			(at 238.76 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -12600,7 +12600,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0234")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -12617,7 +12617,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa954ccd-c1bb-4636-aaa6-c01a0c15f584")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0219"
 			(at 116.84 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -12677,7 +12677,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0215")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -12872,7 +12872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0d1e2e9-d7d0-4ffa-8cd4-44c6d1703129")
-		(property "Reference" "C114"
+		(property "Reference" "C117"
 			(at 125.73 70.358 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12894,7 +12894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 124.46 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -12936,7 +12936,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C114")
+					(reference "C117")
 					(unit 1)
 				)
 			)
@@ -12953,7 +12953,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b60b6002-9e31-43ba-98fa-c9b1b613d754")
-		(property "Reference" "#PWR0233"
+		(property "Reference" "#PWR0237"
 			(at 226.06 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13013,7 +13013,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0233")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -13030,7 +13030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c23efe93-a9ba-4ad4-b578-8e6905562846")
-		(property "Reference" "#PWR0235"
+		(property "Reference" "#PWR0239"
 			(at 246.38 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13090,7 +13090,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0235")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -13107,7 +13107,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3d441a4-dc36-4f88-ae99-b19d4e65330c")
-		(property "Reference" "R102"
+		(property "Reference" "R104"
 			(at 62.992 189.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13129,7 +13129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 60.96 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -13171,7 +13171,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R102")
+					(reference "R104")
 					(unit 1)
 				)
 			)
@@ -13188,7 +13188,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4c1d7d5-542d-4db2-b9f2-03ca8a8fb26e")
-		(property "Reference" "R101"
+		(property "Reference" "R103"
 			(at 62.992 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13210,7 +13210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 60.96 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13252,7 +13252,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R101")
+					(reference "R103")
 					(unit 1)
 				)
 			)
@@ -13269,7 +13269,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccc15e4f-c288-4fd6-8816-067d5019f029")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0220"
 			(at 118.11 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -13329,7 +13329,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0216")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -13346,7 +13346,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cdfb76ec-c4b2-47c9-9fa1-b354c0a401ed")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0221"
 			(at 138.43 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -13406,7 +13406,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0217")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -13423,7 +13423,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ce26243c-1ba5-4407-8008-53fbe4cdb9d2")
-		(property "Reference" "#PWR0206"
+		(property "Reference" "#PWR0210"
 			(at 49.53 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -13483,7 +13483,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0206")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -13500,7 +13500,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d286e569-35b8-40fd-b042-912a8e462e26")
-		(property "Reference" "#PWR0229"
+		(property "Reference" "#PWR0233"
 			(at 182.88 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -13560,7 +13560,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0229")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -13881,7 +13881,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d46515c3-8594-4545-8444-54004b04ee5f")
-		(property "Reference" "C123"
+		(property "Reference" "C126"
 			(at 278.892 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13903,7 +13903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 276.86 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -13945,7 +13945,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C123")
+					(reference "C126")
 					(unit 1)
 				)
 			)
@@ -13962,7 +13962,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6972a46-9a03-4cd3-97f1-7ada57008310")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0215"
 			(at 67.31 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -14022,7 +14022,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0211")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -14039,7 +14039,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9213346-c9ae-4c99-93d5-4f3cc9d8d59d")
-		(property "Reference" "#PWR0224"
+		(property "Reference" "#PWR0228"
 			(at 181.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -14099,7 +14099,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0224")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -14116,7 +14116,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db8bd504-7a4d-4b76-8faf-2ffd619450d2")
-		(property "Reference" "#PWR0247"
+		(property "Reference" "#PWR0251"
 			(at 271.78 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -14176,7 +14176,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0247")
+					(reference "#PWR0251")
 					(unit 1)
 				)
 			)
@@ -14193,7 +14193,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbed6aa8-29d3-4cc4-b068-0416298ddf4b")
-		(property "Reference" "R97"
+		(property "Reference" "R99"
 			(at 35.052 182.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14215,7 +14215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 33.02 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -14257,7 +14257,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R97")
+					(reference "R99")
 					(unit 1)
 				)
 			)
@@ -14274,7 +14274,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e31b9b63-88ea-4605-a183-73bd7415dcef")
-		(property "Reference" "#PWR0221"
+		(property "Reference" "#PWR0225"
 			(at 165.1 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -14334,7 +14334,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0221")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -14351,7 +14351,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1e0670c-8046-4531-b72a-51c362d7cb51")
-		(property "Reference" "C119"
+		(property "Reference" "C122"
 			(at 250.952 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14373,7 +14373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 248.92 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14415,7 +14415,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "C119")
+					(reference "C122")
 					(unit 1)
 				)
 			)
@@ -14432,7 +14432,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5bf0528-2d28-4ef9-9e3d-db6020f4d961")
-		(property "Reference" "#PWR0225"
+		(property "Reference" "#PWR0229"
 			(at 181.61 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -14492,7 +14492,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0225")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -14509,7 +14509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f973bda3-c386-40a8-bdc9-dbd8b4c3f3df")
-		(property "Reference" "#PWR0232"
+		(property "Reference" "#PWR0236"
 			(at 191.77 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -14569,7 +14569,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0232")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -14586,7 +14586,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9d4c002-ce15-4955-a3ec-7bfd50138d2a")
-		(property "Reference" "R100"
+		(property "Reference" "R102"
 			(at 51.562 189.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14608,7 +14608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 49.53 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -14650,7 +14650,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "R100")
+					(reference "R102")
 					(unit 1)
 				)
 			)
@@ -14667,7 +14667,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb335a10-95e6-47cd-b1a3-c87ae4349633")
-		(property "Reference" "#PWR0231"
+		(property "Reference" "#PWR0235"
 			(at 195.58 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -14727,7 +14727,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0231")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -14744,7 +14744,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe179e34-8cae-4dc5-873f-e251a324e548")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0213"
 			(at 60.96 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -14804,7 +14804,7 @@
 		(instances
 			(project "DSP320C6748_DVK"
 				(path "/3a70ffc0-9fe7-4a5b-b3c2-23140355df82/50265626-f8f8-4b78-beea-943b45093bb2"
-					(reference "#PWR0209")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
