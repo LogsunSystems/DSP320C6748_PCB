@@ -658,7 +658,7 @@
         "uuid": "3a70ffc0-9fe7-4a5b-b3c2-23140355df82"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#G1-17,D1-11,BT1,#PWR1-424,C1-216,FB1-19,J1-28,IC1-18,JP1-2,L1-6,Q1-4,R1-274,S1-3,SW1,TP1-20,U1-14,Y1-8,Z1,RV1,BATTERY1-2",
     "variants": []
   },
   "sheets": [
@@ -725,6 +725,10 @@
     [
       "1866fe1a-a792-425d-9c22-4cbe8219f03e",
       "Mislleneous"
+    ],
+    [
+      "2ff54d88-235f-4a1b-92c5-cc7cb53b97e2",
+      "ADC_RTC"
     ]
   ],
   "text_variables": {},
